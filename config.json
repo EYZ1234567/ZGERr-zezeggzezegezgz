@@ -1,13 +1,14 @@
 {
-    "color": "#6495ED",
-    "prefix": "+",
-    "name": "4Protect",
-    "defaultjoinmessage": "{user} vient de rejoindre. Il a été invité par **{inviter:name}** qui a désormais **{invite} invitations** !",
-    "defaultleavemessage": "{user} vient de quitter. Il avais été invité par **{inviter:name}** qui a désormais **{invite} invitations** ",
-    "defaultLevelmessage": "**{user}** vient de passer au level **{level}** bravo à lui !",
-    "owner": [
-        "1208337813339373569", 
-        "",
-        ""
-    ]
+
+"color": "#9900ff",
+"prefix": "+",
+"name": "DayLine - Protect",
+"defaultjoinmessage": " **・Bienvenu(e) {user} Sur DayLine.** !",
+"defaultleavemessage": "{user} vient de quitter. Il avais été invité par **{inviter:name}** qui a désormais **{invite} invitations** ",
+"defaultLevelmessage": "**{user}** vient de passer au level **{level}** bravo à lui !",
+"owner": [
+    "906274981581840465", 
+    "908810553009520650",
+    ""
+]
 }
